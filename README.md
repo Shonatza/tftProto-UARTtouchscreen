@@ -24,12 +24,15 @@ Project developed as part of the **DSBM** (Design of Systems Based on Microcontr
 
 **Calibration**
 
+https://github.com/user-attachments/assets/9cf8e5e5-00c5-408a-8233-3f53516f953b
 
 **Freehand Mode**
 
+https://github.com/user-attachments/assets/f7631ceb-60e0-4256-99d3-4c5e1f2b5abd
 
 **GUI**
 
+https://github.com/user-attachments/assets/c7ddd30c-6a44-4a06-9635-87f4f4609aea
 
 ## Acknowledgments
 
