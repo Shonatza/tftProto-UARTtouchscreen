@@ -1,4 +1,4 @@
-# TFT Driver
+# TFT Driver Expansion
 
 Project developed as part of the **DSBM** (Design of Systems Based on Microcontrollers) subject at **FIB**.
 
